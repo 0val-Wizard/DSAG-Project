@@ -9,6 +9,10 @@ DSAG Project required us to answer questions designed to showcase our understand
 
 ### Questions Breakdown
 ##### Question 1 – Python Quick Start (5 marks)
+<details>
+  <summary>Python Certificate</summary>
+    ![image.png](attachment:image.png)
+</details>
 
 - Completed the LinkedIn Learning – Python Quick Start course.
 
